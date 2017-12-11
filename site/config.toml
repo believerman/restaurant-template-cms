@@ -1,9 +1,9 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Tasty Licks"
+title = "Heart Repair Space"
 
 [params]
-  description = "An example website for restaurants built by [@eliwilliamson](https://github.com/eliwilliamson) using [Victor Hugo](https://github.com/netlify/victor-hugo)."
+  description = "It's about death, life, love and repair of the human heart."
 
 [[menu.main]]
     name = "About"
